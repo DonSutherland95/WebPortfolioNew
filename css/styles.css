@@ -10638,7 +10638,7 @@ header.masthead h1 {
   width: 100%;
   border-radius: 0.25rem;
 }
-.projects__single-project::before {
+/* .projects__single-project::before {
   content: "";
   background: var(--dark);
   width: 100%;
@@ -10654,8 +10654,8 @@ header.masthead h1 {
   -webkit-transform: scale(1);
   transform: scale(1);
   opacity: 0.5;
-}
-.projects__single-project-icon {
+} */
+/* .projects__single-project-icon {
   color: var(--light);
   position: absolute;
   top: 50%;
@@ -10666,7 +10666,7 @@ header.masthead h1 {
   opacity: 0;
   -webkit-transition: all 1.3s ease;
   transition: all 1.3s ease;
-}
+} */
 .projects__single-project-icon:hover {
   color: var(--grey);
 }
